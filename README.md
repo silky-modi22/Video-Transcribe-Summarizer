@@ -1,6 +1,13 @@
 # Video-Transcribe-Summarizer
 
 A brief description about the project
+![image](https://github.com/silky-modi22/Video-Transcribe-Summarizer/assets/99467488/6c075cc3-7ac6-415e-9336-de783edcc01c)
+
+![Screenshot 2024-05-05 000900](https://github.com/silky-modi22/Video-Transcribe-Summarizer/assets/99467488/46db8668-8858-4e39-ac7d-737b07c0c615)
+
+![Screenshot (320)](https://github.com/silky-modi22/Video-Transcribe-Summarizer/assets/99467488/bfc1381a-6b91-4f57-92e2-7585094ecd73)
+
+
 
 ## Introduction 
 Welcome to my Video Transcribe Summarizer application! 🎥✨
