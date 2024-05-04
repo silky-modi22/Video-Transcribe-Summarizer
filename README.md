@@ -5,7 +5,8 @@ A brief description about the project
 
 ![Screenshot 2024-05-05 000900](https://github.com/silky-modi22/Video-Transcribe-Summarizer/assets/99467488/46db8668-8858-4e39-ac7d-737b07c0c615)
 
-![Screenshot (320)](https://github.com/silky-modi22/Video-Transcribe-Summarizer/assets/99467488/bfc1381a-6b91-4f57-92e2-7585094ecd73)
+![Screenshot (319)](https://github.com/silky-modi22/Video-Transcribe-Summarizer/assets/99467488/698985f3-33f7-4151-9b66-12b89781e1fb)
+
 
 
 
