@@ -36,7 +36,7 @@ Update your API key in .env file
 And then run the following command 
 
 ```bash
-streamlit run app.python
+streamlit run app.py
 ```
 
 
